@@ -15,3 +15,4 @@ $ mkdocs serve # in root folder
 3）本地新建分支后，提交 `Pull request` 到 `main（master）`分支。
 
 4）合并至 `main` 分支后，访问 [服务实例部署文档](https://aliyun-computenest.github.io/quickstart-cloudxr) 查看 pages 部署结果。
+
